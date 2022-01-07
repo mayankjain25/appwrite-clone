@@ -1,0 +1,46 @@
+.Navbar__container{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* padding:-10px; */
+    padding:30px;
+    border-bottom: 2px  solid rgb(247, 229, 229);
+    height:50px;
+}
+
+
+.Navbar__brandlogo{
+    width: 250px;
+}
+
+
+
+.Navbar__links{
+    display:flex;
+    color: #F25469;
+    align-items: center;
+    
+}
+
+.Navbar__links>.link{
+    margin-right:10px;
+}
+
+.Navbar__updates{
+    background-color: #F15783;
+    border-radius:50px;
+    color:white;
+    padding:20px;
+}
+
+.Navbar__cont2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.darktoggler{
+    align-self: center;
+    margin-top:50px;
+    margin-right: 40px;
+}
