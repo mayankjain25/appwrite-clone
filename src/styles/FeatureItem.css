@@ -1,0 +1,15 @@
+.feature-item{
+    width:60%;
+}
+
+@media screen and (max-width: 600px) {
+
+    .feature-heading{
+        padding:20px;
+    }
+    .feature-item{
+        width:100%;
+        margin-bottom:30px;
+    }
+}
+    
